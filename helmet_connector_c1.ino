@@ -6,16 +6,16 @@
 #include <HardwareSerial.h>
 
 // ==================== CHANGE THESE ====================
-const char* ssid = "OPPO Reno13 5G e39u";
-const char* password = "ykaa5224";
+const char* ssid = "your wifi name";
+const char* password = "your wifi password";
 
 // Use your PC/server local IP (not localhost)
-const char* SERVER_IP = " 10.220.237.201";
-const char* USER_ID   = "695409cec0c0700560f15c3a"; // your MongoDB user _id
+const char* SERVER_IP = "set your local ip address";
+const char* USER_ID   = "id from the user"; // your MongoDB user _id
 
-#define SENDER_EMAIL      "aaditaygawade01@gmail.com"
-#define SENDER_APP_PASS   "inuv fxsm zkhh pnay"
-#define RECIPIENT_EMAIL   "personsawant@gmail.com"
+#define SENDER_EMAIL      "email sender add here"
+#define SENDER_APP_PASS   "//default app key you app"
+#define RECIPIENT_EMAIL   "reicever emial"
 
 // ======================================================
 
