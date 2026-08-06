@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Smart Helmet",
+    "slug": "smart-helmet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      },
+      "package": "com.smarthelmet.app",
+      "permissions": [
+        "INTERNET",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "VIBRATE",
+        "RECEIVE_BOOT_COMPLETED",
+        "USE_FULL_SCREEN_INTENT",
+        "SYSTEM_ALERT_WINDOW",
+        "WAKE_LOCK"
+      ]
+    }
+  }
+}
