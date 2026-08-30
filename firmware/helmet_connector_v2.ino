@@ -9,8 +9,8 @@
 const char* ssid = "you_wifi_ssid_here";
 const char* password = "your_password_here";
 
-const char* SERVER_IP = "192.168.1.104";
-const char* USER_ID   = "6a5362e553eec64b3526eb6d";
+const char* SERVER_IP = "server_ip_here"; // e.g.,
+const char* USER_ID   = "your_user_id_here ";
 // ======================================================
 
 #define MQ3_PIN     34
